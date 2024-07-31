@@ -16,7 +16,7 @@
 
 <h3 align="center">「 Contact Me 」</h3>
 <p align="center">
-		<a href="[https://vk.com/melomanushka](https://vk.com/d.lisi)" style="text-decoration: none;">
+		<a href="https://vk.com/d.lisi" style="text-decoration: none;">
 			<img src="https://img.shields.io/badge/VK-melomanushka-blue?style=for-the-badge&logo=vk">
 		</a>
 		<a href="https://t.me/melomanushke" style="text-decoration: none;">
