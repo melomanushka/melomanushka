@@ -23,6 +23,6 @@
 			<img src="https://img.shields.io/badge/Telegram-melomanushka-blue?style=for-the-badge&logo=telegram">
 		</a>
 </p>
-### <p align="center">⸻⸻ ⯌ ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 ⯌ ⸻⸻</p>
+<p align="center">⸻⸻ ⯌ ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 ⯌ ⸻⸻</p>
 
 ![codewars](https://www.codewars.com/users/melomanushka/badges/large)
